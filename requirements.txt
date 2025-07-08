@@ -1,2 +1,6 @@
 pandas
 streamlit
+matplotlib
+seaborn
+xlsxwriter
+openpyxl  # Optional, for Excel file reading
