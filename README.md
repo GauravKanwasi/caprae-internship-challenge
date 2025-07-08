@@ -13,8 +13,7 @@ A tool to filter, visualize, and export high-quality SaaS/M&A leads from persona
 | [File Structure](#file-structure) | Project organization |  
 | [Evaluation Criteria Alignment](#evaluation-criteria-alignment) | How this meets Caprae’s requirements |  
 | [Screenshots](#screenshots) | Visual examples of the UI |  
-| [Contributing](#contributing) | Guidelines for contributions |  
-| [License](#license) | MIT License |  
+| [Contributing](#contributing) | Guidelines for contributions |   
 | [Contact](#contact) | Reach out for questions |
 
 ---
