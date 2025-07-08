@@ -1,20 +1,14 @@
 # Caprae Internship Challenge Report  
 
 ## Objective  
-This tool enhances [SaaSquatch Leads](https://www.saasquatchleads.com/ ) by prioritizing high-impact SaaS leads for Caprae Capital’s M&A strategy [[6]]. It focuses on data quality, usability, and alignment with real-world sales workflows.  
+This tool transforms raw personal data into actionable SaaS/M&A leads by calculating **age** from `Date of birth` [[3]] and mapping job titles to industries (e.g., "Biomedical Engineer" → "HealthTech") [[6]].  
 
 ## Key Features  
-1. **Pre-Generated Data**: Uses manually curated fake leads to avoid scraping risks [[3]].  
-2. **Industry Filtering**: Targets SaaS leads, aligning with Caprae’s strategic focus [[6]].  
-3. **Export Functionality**: Simplifies CRM integration for sales teams.  
+1. **Dynamic Age Calculation**: Derives age from DOB to enable demographic insights [[3]].  
+2. **Industry Mapping**: Links job titles to high-impact sectors for Caprae’s M&A strategy [[6]].  
+3. **Visualizations**: Age distribution and industry charts for real-world sales workflows [[5]].  
 
 ## Design Choices  
-- **Business Use Case**: Filters SaaS leads to reduce irrelevant data [[2]].  
-- **UX/UI**: Streamlit provides an intuitive interface for filtering and exporting leads [[5]].  
-- **Technicality**: Deduplication ensures clean datasets for analysis [[3]].  
-- **Creativity**: Placeholder for AI-driven scoring (e.g., NLP for lead relevance).  
-
-## Future Improvements  
-- Add CAPTCHA handling for real scraping.  
-- Integrate AI models for lead scoring.  
-- Build an API for CRM sync (e.g., HubSpot).  
+- **Business Use Case**: Filters SaaS/HealthTech leads for Caprae’s focus [[6]].  
+- **Technicality**: Handles inconsistent date formats and calculates age dynamically [[3]].  
+- **Creativity**: Combines job title mapping with age insights for M&A targeting [[2]].  
